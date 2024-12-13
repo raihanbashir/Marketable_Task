@@ -6,4 +6,11 @@ For the final task for the selection for the Marketable.in UI/UX Designer intern
 
 
 ## Screenshots
+![Homepage Preview](Images/Screenshot1.png)
+![Homepage Preview](Images/Screenshot2.png)
+![Homepage Preview](Images/Screenshot3.png)
+![Homepage Preview](Images/Screenshot4.png)
+![Homepage Preview](Images/Screenshot5.png)
+![Homepage Preview](Images/Screenshot6.png)
+
 
